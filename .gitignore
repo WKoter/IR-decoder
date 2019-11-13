@@ -1,0 +1,4 @@
+$ cat .gitignore
+
+IR_PC.componentinfo.xml
+**/Debug
