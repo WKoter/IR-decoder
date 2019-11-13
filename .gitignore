@@ -2,3 +2,7 @@ $ cat .gitignore
 
 IR_PC.componentinfo.xml
 **/**/Debug
+
+**/**/bin
+**/**/obj
+**/**/.vs
